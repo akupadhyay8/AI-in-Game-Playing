@@ -21,7 +21,7 @@ The objective is to guide the snake to eat the red food, which causes the snake 
 
 
 ## Code Overview
-- `snake_game.py`: The main file containing the game logic, including setup, movement, collision detection, and scoring.
+- `SnakeGame.py`: The main file containing the game logic, including setup, movement, collision detection, and scoring.
 
 ## Prerequisites
 Make sure you have Python installed on your machine. You can download it from [Python's official website](https://www.python.org/).
